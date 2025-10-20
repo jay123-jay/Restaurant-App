@@ -1,0 +1,12 @@
+------------ RECEIPT ------------
+Customer Name: Jay
+Table Number: 43
+
+Mocktail - ₹120.0
+WaterMelon Juice - ₹120.0
+Spring Roll - ₹190.0
+
+Total: ₹430.0
+Amount to Pay: ₹430.0
+Payment Mode: UPI
+Thank you for dining with us!
