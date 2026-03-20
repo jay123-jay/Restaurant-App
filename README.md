@@ -1,0 +1,1 @@
+This project is a desktop-based Restaurant Management System developed using Java Swing and MySQL. It allows efficient management of restaurant operations, including item selection, automated billing, and receipt generation. The application leverages event-driven programming to provide an interactive and responsive user interface, ensuring a smooth user experience.
